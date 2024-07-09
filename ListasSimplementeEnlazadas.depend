@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1710435004 source:c:\users\lcc-unison\documents\estructura de datos\l\listassimplementeenlazadas\main.cpp
+	<iostream>
+	"ListasSimplementeEnlazadas.hpp"
+
+1710435172 c:\users\lcc-unison\documents\estructura de datos\l\listassimplementeenlazadas\listassimplementeenlazadas.hpp
+	"ListasSimplementeEnlazadas.tpp"
+
+1710435758 c:\users\lcc-unison\documents\estructura de datos\l\listassimplementeenlazadas\listassimplementeenlazadas.tpp
+
+1710911954 source:c:\users\ana laura chenoweth\music\listassimplementeenlazadas\main.cpp
+	<iostream>
+	"ListasSimplementeEnlazadas.hpp"
+
+1720491723 c:\users\ana laura chenoweth\music\listassimplementeenlazadas\listassimplementeenlazadas.hpp
+	"ListasSimplementeEnlazadas.tpp"
+
+1720491522 c:\users\ana laura chenoweth\music\listassimplementeenlazadas\listassimplementeenlazadas.tpp
+
